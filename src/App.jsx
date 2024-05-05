@@ -6,7 +6,7 @@ import About from './Copnentions/About'
 import Portfolio from './Copnentions/Portfolio'
 import Experince from './Copnentions/Experince'
 import Contact from './Copnentions/Contact'
-import NavbarLinks from './Copnentions/NavbarLinks'
+
 
 const App = () => {
   return (
@@ -19,7 +19,7 @@ const App = () => {
      <Contact/>
 
     <SocialLinks/>
-    <NavbarLinks/>
+
     </div>
   )
 }
