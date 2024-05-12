@@ -28,8 +28,8 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        <div>
-         <img src={port} alt="" className=' rounded-2xl ' />
+        <div >
+         <img src={port} alt="" className=' rounded-2xl lg:w-96 ' />
         </div>
       </div>
     </div>
